@@ -248,4 +248,3 @@ You can test the API endpoints using Postman or any other API testing tool. Here
 
 ## License
 
-This project is licensed under the MIT License.
